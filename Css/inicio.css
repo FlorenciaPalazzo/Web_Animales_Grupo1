@@ -61,7 +61,7 @@ h5 {
   margin-top: 100px;
   width: 300px;
 
-  box-shadow: 7px 5px 14px -6px rgb(87, 86, 86);
+  box-shadow: 7px 5px 14px -6px rgba(87, 86, 86, 0.573);
   border-radius: 6px;
   transition: all 0.3s;
 }
