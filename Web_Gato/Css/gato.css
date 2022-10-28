@@ -25,11 +25,13 @@ li {
 
 a {
   text-decoration: none;
+  color: black;
+  font-weight: bold;
 }
 a:hover {
   color: red;
-  font-weight: bold;
-  text-shadow: #ccc 1px 0 10px;
+
+  text-shadow: 3#FF2D95 0px 0px 75px;
 }
 header {
   height: 150px;
