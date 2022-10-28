@@ -107,11 +107,11 @@ h4 {
   color: white;
   text-align: center;
 }
-.pie {
-  padding: 50px 0;
-}
+
 footer {
-  height: 170px;
+  display: flex;
+  align-items: center;
+  height: 150px;
   background-color: black;
   box-shadow: 7px 5px 20px -6px rgb(87, 86, 86);
 }
